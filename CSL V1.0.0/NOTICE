@@ -1,0 +1,20 @@
+CSL
+Cognitive Specification Language
+
+Copyright (c) 2026
+Keyla Avanda
+
+CSL is an independent research project exploring
+modular behavioral architecture for AI systems.
+
+Rather than describing intelligence through a
+single prompt, CSL separates intrinsic identity,
+extrinsic environment, and runtime decision-making
+into composable behavioral specifications.
+
+Python serves only as the host language.
+
+CSL itself is the behavioral specification.
+
+If you build something interesting with CSL,
+I'd genuinely love to hear about it.
